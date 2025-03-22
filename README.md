@@ -37,6 +37,7 @@
 
 ## Demo Pictures
 
+![Aero Glass Theme](/screenshots/screenshot7.png)
 ![Aero Glass Theme](/screenshots/screenshot2.png)
 ![Aero Glass Theme](/screenshots/screenshot3.png)
 ![Aero Glass Theme](/screenshots/screenshot4.png)
