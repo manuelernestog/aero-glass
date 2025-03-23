@@ -26,7 +26,7 @@
 >⚠️ if you find any problem with the position of the `Quick Setting` menu go to Windows 11 Notification Center Styler > Details > Settings > Find the Target Grid#ControlCenterRegion > Marging and change the last value (650) until you find the best position for you.
 
 2. Install YASB.
-   1. Go to the folder with the YASB config (C:\Users\[username]]\.config\yasb) and replace the files with the ones in the .conf/yasb folder to apply the Aero Glass Bar Theme.
+   1. Install the theme `Aero Glass` theme gallery on YASB or go to the folder with the YASB config (C:\Users\[username]]\.config\yasb) and replace the files with the ones in the .conf/yasb folder to apply the Aero Glass Bar Theme.
 3. Install PowerToys.
    1. Enable the "PowerToys Run" feature.
 4. Install Smart Taskbar.
