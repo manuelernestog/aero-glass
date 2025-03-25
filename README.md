@@ -10,7 +10,6 @@
 - [Windhawk](https://windhawk.net/) (Windows Customization Tool)
 - [YASB](https://github.com/amnweb/yasb?tab=readme-ov-file) (Status bar)
 - [PowerToys](https://github.com/microsoft/PowerToys) (For Spotlight search)
-- [Smart Taskbar](https://github.com/Oliviaophia/SmartTaskbar) (Auto-hide Taskbar)
 
 ## Installation
 
@@ -21,6 +20,7 @@
         - `Taskbar height and icon size`
         - `Windows 11 Notification Center Styler`
         - `Windows 11 Taskbar Styler`
+        - `Taskbar auto-hide when maximized` (Not necesary, and right now have some incompatibility with the systemtray icons on Yasb)
    2. Go to each mod. On Details > Advanced > Mod settings and paste the content of the file on .conf/windhawk corresponding to the mod.
 
 >⚠️ if you find any problem with the position of the `Quick Setting` menu go to Windows 11 Notification Center Styler > Details > Settings > Find the Target Grid#ControlCenterRegion > Marging and change the last value (650) until you find the best position for you.
@@ -29,7 +29,6 @@
    1. Install the theme `Aero Glass` theme gallery on YASB or go to the folder with the YASB config (C:\Users\[username]]\.config\yasb) and replace the files with the ones in the .conf/yasb folder to apply the Aero Glass Bar Theme.
 3. Install PowerToys.
    1. Enable the "PowerToys Run" feature.
-4. Install Smart Taskbar.
 
 ## Wallpaper
 
